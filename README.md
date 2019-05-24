@@ -153,5 +153,15 @@ opacity: 0.7;
 
 To make an image responsive (**fixing height and weight when on window resize**) take a look to the official [documentation](https://getbootstrap.com/docs/4.3/content/images/#responsive-images)
 
+#### Styling Images
 
+Along with the Bootstrap´s class `.img-fluid` we can modify it to style our images, some properties examples are
+
+```css
+.img-fluid{
+  margin: 0px auto;
+  border: 3px solid blue;
+  box-shadow: rgba(0,0,0,0.5) 10px 10px 60px;
+}
+```
 
