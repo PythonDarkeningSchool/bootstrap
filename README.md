@@ -127,7 +127,7 @@ Put these scripts at the end of the `body` tag, because the script `cbpAnimatedH
 <head>
   <!-- Animated Header -->
   <script src="cassie.js"></script>
-	<script src="cbpAnimatedHeader"></script>
+  <script src="cbpAnimatedHeader"></script>
 ```
 
 3. Add `fixed-top` & `cbp-af-header` to `nav  ` tag as a classes, [example here](https://getbootstrap.com/docs/4.3/components/navbar/#placement)
@@ -151,7 +151,7 @@ opacity: 0.7;
 
 ### Responsive Images in Bootstrap
 
-To make an image responsive (fix height and weight when on window resize) take a look to the official [documentation](https://getbootstrap.com/docs/4.3/content/images/#responsive-images)
+To make an image responsive (**fixing height and weight when on window resize**) take a look to the official [documentation](https://getbootstrap.com/docs/4.3/content/images/#responsive-images)
 
 
 
